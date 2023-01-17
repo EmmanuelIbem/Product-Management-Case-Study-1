@@ -1,0 +1,17 @@
+Case Study: Spotify to Apple Music seamless switch for users 
+
+Goal:
+Ease the transition between users from spotify to Apple Music by automating the transfer process
+  Short term goals
+  - Transfer playists from spotify to apple music 
+  Long Term goals
+  - Improve/speed up USER PROFILE creation for smoother transition between music apps
+ 
+ 
+ Tools 
+ Spotify for developer: Get_Playlist API
+ Visual studio code: for code base
+ Github: Git for version control 
+ 
+Budget
+Not required

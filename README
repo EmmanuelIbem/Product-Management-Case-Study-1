@@ -15,3 +15,20 @@ Ease the transition between users from spotify to Apple Music by automating the 
  
 Budget
 Not required
+
+I will be using my account and hence my OAuth token for the prototype of this project
+
+
+STEPS
+- Authenticate user
+- Obtain playlists using GET method from Spotify API
+- Parse each playlist using a webscrapper 
+- 
+
+Key Questions: 
+
+- Can all playlist be access with or without an active spotify premium subscription: could affect API call if token cannot be assessed due to authentication 
+- Is there a license required 
+- Are there metrics to support this is a feasible solution to an existing problem.
+
+SongShift _ research and internalize this /acquire this company. 
